@@ -8,6 +8,6 @@ In this project the developer aims to create an application that will provide co
 
 Tools:
 
-VS Code Editor
-SQL Server Express or Local DB
+VS Code Editor,
+SQL Server Express or Local DB,
 Postman
