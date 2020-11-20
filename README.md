@@ -1,6 +1,6 @@
 # Commander
 
-Personal C# project using .NET Core 3.1. MVC and REST API.
+Personal C# project using .NET Core, MVC and REST API.
 
 Description:
 
