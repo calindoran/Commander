@@ -60,3 +60,7 @@ C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\D
 C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\calin\Desktop\Development\C#\.NET Core 3.1 MVC REST API\Commander\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

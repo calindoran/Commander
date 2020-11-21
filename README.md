@@ -11,3 +11,7 @@ Tools:
 VS Code Editor,
 SQL Server Express or Local DB,
 Postman
+
+To view in Swagger UI:
+
+dotnet run, follow to localhost:5000/swagger
