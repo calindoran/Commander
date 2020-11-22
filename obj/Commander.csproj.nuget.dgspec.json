@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calin\\Desktop\\Development\\C#\\.NET Core 3.1 MVC REST API\\Commander\\Commander.csproj": {}
+    "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calin\\Desktop\\Development\\C#\\.NET Core 3.1 MVC REST API\\Commander\\Commander.csproj": {
+    "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calin\\Desktop\\Development\\C#\\.NET Core 3.1 MVC REST API\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "C:\\Users\\calin\\Desktop\\Development\\C#\\.NET Core 3.1 MVC REST API\\Commander\\Commander.csproj",
+        "projectPath": "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\calin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calin\\Desktop\\Development\\C#\\.NET Core 3.1 MVC REST API\\Commander\\obj\\",
+        "outputPath": "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\calin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
               "noWarn": [
                 "NU1605"
               ]
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
