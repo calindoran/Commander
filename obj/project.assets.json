@@ -5978,19 +5978,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\calin\\.nuget\\packages\\": {}
+    "C:\\Users\\Calin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\Commander.csproj",
+      "projectUniqueName": "C:\\Users\\Calin\\Desktop\\Develop\\Web Dev\\Commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\Commander.csproj",
-      "packagesPath": "C:\\Users\\calin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calin\\Desktop\\Development\\C#\\CommanderApp\\Commander\\obj\\",
+      "projectPath": "C:\\Users\\Calin\\Desktop\\Develop\\Web Dev\\Commander\\Commander.csproj",
+      "packagesPath": "C:\\Users\\Calin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Calin\\Desktop\\Develop\\Web Dev\\Commander\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\calin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Calin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6083,7 +6083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

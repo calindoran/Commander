@@ -1,6 +1,6 @@
 # Commander
 
-Personal C# project using .NET Core, MVC and REST API.
+Personal C# project using .NET Core, MVC to create a RESTful API.
 
 Description:
 
@@ -9,9 +9,9 @@ In this project the developer aims to create an application that will provide co
 Tools:
 
 VS Code Editor,
-SQL Server Express or Local DB,
+SQL Server Express (localDb),
 Postman
 
-To view in Swagger UI:
+To view in SwaggerUI:
 
 dotnet run, follow to localhost:5000/swagger
